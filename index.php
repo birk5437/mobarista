@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Fixed Top Navbar Example for Bootstrap</title>
+    <title>Mobarista</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
@@ -34,11 +34,12 @@
     <!-- Fixed navbar -->
     <!-- TODO: make navbar shrink on scroll? http://stackoverflow.com/questions/24765155/shrinking-navigation-bar-when-scrolling-down-bootstrap3 -->
     <?php include 'header.html'; ?>
-
+    <br />
+    <br />
     <div class="container">
       <img src="mobarista_assets/MobaristaWebLogo.jpg" class="img-responsive center-block" />
       <div class="center-block" style="max-width: 300px;">
-        <a class="btn btn-lg btn-primary btn-block" href="menu.html" role="button">View Our Menu &raquo;</a>
+        <a class="btn btn-lg btn-primary btn-block" href="menu.php" role="button">View Our Menu &raquo;</a>
       </div>
 
       <!-- Main component for a primary marketing message or call to action -->

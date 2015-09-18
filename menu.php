@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Fixed Top Navbar Example for Bootstrap</title>
+    <title>Mobarista</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
       <div class="center-block" style="max-width: 1000px;">
         <br />
         <br />
-        <object width="90%" max-width="1200px" height="800" data="mobarista_assets/Mobaristapresskit.pdf"></object>
+        <object width="90%" max-width="1200px" height="585px" data="mobarista_assets/Mobaristapresskit.pdf"></object>
       </div>
 
       <!-- Main component for a primary marketing message or call to action -->
