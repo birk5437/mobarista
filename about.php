@@ -33,52 +33,14 @@
 
     <!-- Fixed navbar -->
     <!-- TODO: make navbar shrink on scroll? http://stackoverflow.com/questions/24765155/shrinking-navigation-bar-when-scrolling-down-bootstrap3 -->
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#"><img src="mobarista_assets/MobaristaWebLogo_small.jpg" style="height: 100%" /></a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="menu.html">Menu</a></li>
-            
-            <li><a href="#contact">Catering</a></li>
-            <li><a href="#contact">About</a></li>
-            <li><a href="#contact">Contact Us</a></li>
-<!--             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
-              </ul>
-            </li> -->
-          </ul>
-<!--           <ul class="nav navbar-nav navbar-right">
-            <li><a href="../navbar/">Default</a></li>
-            <li><a href="../navbar-static-top/">Static top</a></li>
-            <li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li>
-          </ul> -->
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
+    <?php include 'header.html'; ?>
 
     <div class="container">
-      <div class="center-block" style="max-width: 1000px;">
-        <br />
-        <br />
-        <iframe src="https://www.google.com/calendar/embed?src=kenifeck%40gmail.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-      </div>
+      <br />
+      <br />
+      <p>
+        Mobarista strives to ensure that every customer receives prompt, professional and friendly service.  Our facility is clean, comfortable and well maintained creating an inviting atmosphere for both patrons and staff. All team leaders are ServSafe certified. Our menu offers nutritional, well prepared food and beverage items made with quality ingredients at affordable prices. By maintaining these objectives we are assured a fair profit that allows us to contribute to the community we serve.
+      </p>
 
       <!-- Main component for a primary marketing message or call to action -->
 <!--       <div class="jumbotron">
