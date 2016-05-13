@@ -40,9 +40,26 @@
         <br />
         <br />
         <h2>Contact Us</h2>
+        <br />
+        <h3>
+          (231) 373-3585
+        </h3>
         <h3>
           info@cheeseandcompany.com
         </h3>
+        <br />
+        <p>
+          TRAILER LOCATION
+          1100 bridge street open daily from 10am - 7pm
+
+          BOOTH LOCATION
+          250 E Bay Street in Harbor Springs starting June 15 - July 15
+          Wednesday - Saturday 11am - 7pm
+          Weather Permitting
+
+          EVENTS
+          Harbor Springs 4th of July, Charlevoix Venetian Festival, Festival on the Bay in Petoskey, Emmet/Charlevoix County Fair, TC Winter Microbrew festival, Trucks Gone Wild, Resonance Music and Arts Festival
+        </p>
       </div>
 
 
