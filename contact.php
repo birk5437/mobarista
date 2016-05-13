@@ -39,8 +39,9 @@
       <div class="center-block">
         <br />
         <br />
+        <h2>Contact Us</h2>
         <h3>
-          vending@mobarista.com
+          info@cheeseandcompany.com
         </h3>
       </div>
 
