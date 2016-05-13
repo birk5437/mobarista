@@ -49,16 +49,16 @@
         </h3>
         <br />
         <p>
-          TRAILER LOCATION
-          1100 bridge street open daily from 10am - 7pm
-
-          BOOTH LOCATION
-          250 E Bay Street in Harbor Springs starting June 15 - July 15
-          Wednesday - Saturday 11am - 7pm
-          Weather Permitting
-
-          EVENTS
-          Harbor Springs 4th of July, Charlevoix Venetian Festival, Festival on the Bay in Petoskey, Emmet/Charlevoix County Fair, TC Winter Microbrew festival, Trucks Gone Wild, Resonance Music and Arts Festival
+          TRAILER LOCATION<br />
+          1100 bridge street open daily from 10am - 7pm<br />
+          <br />
+          BOOTH LOCATION<br />
+          250 E Bay Street in Harbor Springs starting June 15 - July 15<br />
+          Wednesday - Saturday 11am - 7pm<br />
+          Weather Permitting<br />
+          <br />
+          EVENTS<br />
+          Harbor Springs 4th of July, Charlevoix Venetian Festival, Festival on the Bay in Petoskey, Emmet/Charlevoix County Fair, TC Winter Microbrew festival, Trucks Gone Wild, Resonance Music and Arts Festival<br />
         </p>
       </div>
 
