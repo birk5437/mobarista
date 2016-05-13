@@ -37,7 +37,7 @@
       <div class="center-block" style="max-width: 1000px;">
         <br />
         <br />
-        <object width="90%" max-width="1200px" height="585px" data="mobarista_assets/catering_menu.pdf"></object>
+        <object width="100%" max-width="1200px" height="585px" data="mobarista_assets/catering_menu.pdf"></object>
       </div>
 
       <!-- Main component for a primary marketing message or call to action -->
