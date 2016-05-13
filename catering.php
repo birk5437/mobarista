@@ -34,10 +34,11 @@
     <?php include 'header.html'; ?>
 
     <div class="container">
-      <br />
-      <br />
-      <h3>Catering is available!  Serving Northwest Michigan.  Personalized menus available.</h3>
-      <h4>Catering page coming soon!</h4>
+      <div class="center-block" style="max-width: 1000px;">
+        <br />
+        <br />
+        <object width="90%" max-width="1200px" height="585px" data="mobarista_assets/catering_menu.pdf"></object>
+      </div>
 
       <!-- Main component for a primary marketing message or call to action -->
 <!--       <div class="jumbotron">
