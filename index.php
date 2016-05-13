@@ -37,7 +37,7 @@
     <br />
     <br />
     <div class="container">
-      <img src="mobarista_assets/MobaristaWebLogo.jpg" class="img-responsive center-block" />
+      <img src="mobarista_assets/site_logo_bigger.png" class="img-responsive center-block" />
       <div class="center-block" style="max-width: 300px;">
         <a class="btn btn-lg btn-primary btn-block" href="menu.php" role="button">View Our Menu &raquo;</a>
       </div>
