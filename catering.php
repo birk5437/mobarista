@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Mobarista</title>
+    <title>Cheese & Company</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">

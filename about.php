@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Mobarista</title>
+    <title>Cheese & Company</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
       <br />
       <br />
       <p>
-        Mobarista strives to ensure that every customer receives prompt, professional and friendly service.  Our facility is clean, comfortable and well maintained creating an inviting atmosphere for both patrons and staff. All team leaders are ServSafe certified. Our menu offers nutritional, well prepared food and beverage items made with quality ingredients at affordable prices. By maintaining these objectives we are assured a fair profit that allows us to contribute to the community we serve.
+        Cheese & Company strives to ensure that every customer receives prompt, professional and friendly service.  Our facility is clean, comfortable and well maintained creating an inviting atmosphere for both patrons and staff. All team leaders are ServSafe certified. Our menu offers nutritional, well prepared food and beverage items made with quality ingredients at affordable prices. By maintaining these objectives we are assured a fair profit that allows us to contribute to the community we serve.
       </p>
 
       <!-- Main component for a primary marketing message or call to action -->
