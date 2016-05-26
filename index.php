@@ -16,7 +16,8 @@
 
     <!-- Custom styles for this template -->
     <link href="assets/navbar-fixed-top.css" rel="stylesheet">
-    <link href="custom.css" rel="stylesheet">
+    <link href="css/responsiveslides.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -37,26 +38,19 @@
     <br />
     <br />
     <div class="container">
-      <img src="mobarista_assets/site_logo_bigger.png" class="img-responsive center-block" />
-      <br />
+      <ul class="rslides center-block">
+        <li><img class="center-block" src="mobarista_assets/slideshow/0.png" alt=""></li>
+        <li><img class="center-block" src="mobarista_assets/slideshow/1.jpg" alt=""></li>
+        <li><img class="center-block" src="mobarista_assets/slideshow/2.jpg" alt=""></li>
+        <li><img class="center-block" src="mobarista_assets/slideshow/3.jpg" alt=""></li>
+      </ul>
+      <!-- <div class="center-block" id="fadeshow1"></div> -->
+      <!-- <img src="mobarista_assets/site_logo_bigger.png" class="img-responsive center-block" /> -->
+<!--       <br />
       <div class="center-block" style="max-width: 300px;">
         <a class="btn btn-lg btn-primary btn-block" href="menu.php" role="button">View Our Menu &raquo;</a>
-      </div>
-
-      <!-- Main component for a primary marketing message or call to action -->
-<!--       <div class="jumbotron">
-        <h1>Navbar example</h1>
-        <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
-        <p>To see the difference between static and fixed top navbars, just scroll.</p>
-        <p>
-          <img src="mobarista_assets/MobaristaWebLogo.jpg" class="img-responsive center-block" />
-        </p>
-        <p>
-          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
-        </p>
       </div> -->
-
-    </div> <!-- /container -->
+    </div>
 
 
     <!-- Bootstrap core JavaScript
@@ -66,5 +60,42 @@
     <script src="assets/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <script src="javascript/responsiveslides.min.js"></script>
+
+    <script>
+      $(function() {
+        $(".rslides").responsiveSlides({
+          maxwidth: 1024
+        });
+      });
+    </script>
+
+
+    <!-- <script type="text/javascript" src="javascript/fadeslideshow.js"></script> -->
+<!--     /***********************************************
+    * Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+    ***********************************************/ -->
+
+<!--     <script type="text/javascript">
+      var mygallery=new fadeSlideShow({
+        wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
+        dimensions: [800, 533], //width/height of gallery in pixels. Should reflect dimensions of largest image
+        imagearray: [
+          ["mobarista_assets/site_logo_bigger.png", "", "", ""],
+          ["mobarista_assets/slideshow/1.jpg", "", "", ""],
+          ["mobarista_assets/slideshow/2.jpg"],
+          ["mobarista_assets/slideshow/3.jpg"]
+        ],
+        displaymode: {type:'auto', pause:5500, cycles:0, wraparound:false},
+        persist: false, //remember last viewed slide and recall within same session?
+        fadeduration: 1000, //transition duration (milliseconds)
+        descreveal: "ondemand",
+        togglerid: ""
+      })
+    </script> -->
+
   </body>
 </html>

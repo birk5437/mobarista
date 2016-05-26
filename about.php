@@ -16,7 +16,7 @@
 
     <!-- Custom styles for this template -->
     <link href="assets/navbar-fixed-top.css" rel="stylesheet">
-    <link href="custom.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -37,6 +37,8 @@
 
     <div class="container">
       <br />
+      <br />
+      <h2>About Us</h2>
       <br />
       <p>
         Cheese & Company strives to ensure that every customer receives prompt, professional and friendly service.  Our facility is clean, comfortable and well maintained creating an inviting atmosphere for both patrons and staff. All team leaders are ServSafe certified. Our menu offers nutritional, well prepared food and beverage items made with quality ingredients at affordable prices. By maintaining these objectives we are assured a fair profit that allows us to contribute to the community we serve.
