@@ -42,6 +42,7 @@
         <iframe src="https://www.google.com/calendar/embed?src=kenifeck%40gmail.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       </div>
       <?php include 'header.html'; ?>
+<?php include_once("analyticstracking.php") ?>
 
       <!-- Main component for a primary marketing message or call to action -->
 <!--       <div class="jumbotron">

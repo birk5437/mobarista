@@ -32,6 +32,7 @@
   <body>
 
     <?php include 'header.html'; ?>
+<?php include_once("analyticstracking.php") ?>
 
     <div class="container">
       <div class="center-block" style="max-width: 1000px;">

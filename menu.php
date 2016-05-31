@@ -34,6 +34,7 @@
     <!-- Fixed navbar -->
     <!-- TODO: make navbar shrink on scroll? http://stackoverflow.com/questions/24765155/shrinking-navigation-bar-when-scrolling-down-bootstrap3 -->
     <?php include 'header.html'; ?>
+<?php include_once("analyticstracking.php") ?>
 
     <div class="container">
       <div class="center-block" style="max-width: 1000px;">
