@@ -43,10 +43,10 @@
         <h2>Contact Us</h2>
         <br />
         <h3>
-          (231) 373-3585
+          (231) 459-6430
         </h3>
         <h3>
-          info@cheeseandcompany.com
+          kenifeck@gmail.com
         </h3>
         <br />
         <p>
